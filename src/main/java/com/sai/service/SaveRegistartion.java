@@ -30,7 +30,7 @@ public class SaveRegistartion {
 		return "SSN";
 		}
 		else {
-		return "Unable to Save Citizen State Name not Kentucky";
+		return "Unable to Save Citizen State Name not Kentucky  ";
 		}
 		
 	}
